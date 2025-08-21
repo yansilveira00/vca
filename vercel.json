@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/PucMobile.WebApi/v4/aluno/ValidarCarteirinha.html"
+    }
+  ]
+}
